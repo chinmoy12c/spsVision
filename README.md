@@ -42,3 +42,13 @@ To run the program:
 cd bin
 python recognizer.py
 ```
+
+# Adding to dataset 
+
+```
+
+python dataGatherer.py
+
+```
+
+Run the trainer again after adding to the dataset
