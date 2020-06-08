@@ -1,0 +1,4 @@
+opencv-python
+tensorflow
+pyttsx3
+numpy
