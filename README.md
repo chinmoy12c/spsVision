@@ -22,7 +22,7 @@ are then calculated accordingly.
 # INSTALLATION
 
 ```
-git clone https://github.com/chinmoy12c/spsVision
+git clone https://github.com/chinmoy12c/spsVision.git
 
 ```
 
